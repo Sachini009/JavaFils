@@ -1,7 +1,7 @@
 --// EXISTES OPERATIONS
 
 
---// Student Table -> sid,name,gpa
+--// Student Table -> sid,name,gpa ]]]]]]]]]
 --// Grade Table -> sid,cid,grade
 
 --// Find the students who has obtained a ‘A’?
