@@ -15,6 +15,10 @@ group by s.cid
 
 
 --// HAVING
+--// HAVING
+--// HAVING
+--// HAVING
+
 
 --// : Find courses which is followed by more than two students 
 
